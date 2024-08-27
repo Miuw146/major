@@ -1,0 +1,1 @@
+query_id=AAELdZAzAwAAAAt1kDNjpy-F&user=%7B%22id%22%3A7307556107%2C%22first_name%22%3A%22Mam%22%2C%22last_name%22%3A%22Ma%F0%9F%A6%B4%22%2C%22username%22%3A%22Zeekfrost%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724715488&hash=2298f344b54feab2ad2e1cc72d5caaad76fe5f50c4f980596685421876b36011
